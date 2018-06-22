@@ -58,3 +58,4 @@ python tran.py
 ### 更多阅读
 原作者的知乎页面:[AlphaZero实战：从零学下五子棋（附代码）-知乎](https://zhuanlan.zhihu.com/p/32089487)
 我的个人博客:[Xice-博客](https://blog.xice.cf)
+整个过程的后记: [五子棋AI边缘试探-Xice](https://blog.xice.cf/2018/06/21/五子棋AI边缘试探/)
