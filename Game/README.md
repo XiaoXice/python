@@ -54,6 +54,7 @@ python tran.py
 > * `current_policy.model` 大约训练了 200 轮
 > * `current_policy1.model` 大约训练了 1000 轮
 > * `current_policy2.model` 训练了 3050 轮
+> * `current_policy3.model` 训练了 5500 轮
 
 ### 更多阅读
 
